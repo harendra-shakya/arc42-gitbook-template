@@ -1,25 +1,17 @@
+## Intro​
+
 * [Über dieses Template](README.md)
 
 
 1. [Einführung und Ziele](01-introduction-and-goals.md)
 
-  * [Aufgabenstellung](01-introduction-and-goals.md#requirements)
-  * [Qualitätsziele](01-introduction-and-goals.md#qualitygoals)
-  * [Stakeholder](01-introduction-and-goals.md#stakeholder)
-
 2. [Randbedingungen](02-architecture-constraints.md)
-
-  * [Technische Randbedingungen](02-architecture-constraints.md#technical)
-  * [Organisatorische Randbedingungen](02-architecture-constraints.md#organisational)
-  * [Konventionen](02-architecture-constraints.md#conventions)
 
 3. [Kontextabgrenzung](03-system-scope-and-context.md)
 
-  * [Fachlicher Kontext](03-system-scope-and-context.md#functional-context)
-  * [Technischer- oder Verteilungskontext](03-system-scope-and-context.md#technical-context)
-  * [Externe Schnittstellen](03-system-scope-and-context.md#external-interfaces)
-
 4. [Lösungsstrategie](04-solution-strategy.md)
+
+## Second​
 
 5. [Bausteinsicht](05-building-block-view.md)
 
